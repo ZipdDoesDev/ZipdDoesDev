@@ -22,5 +22,7 @@
 
 
 MY TIME 
-![EST Time](https://www.timeapi.io/api/Time/current/zone?timeZone=America/New_York)
+### ⏰ Current Timezone
+![Timezone](https://img.shields.io/badge/Timezone-EST-blue?style=flat-square)
+
 
