@@ -19,3 +19,8 @@
 ### 🧰 Projects & Stuff
 
 - 🎯 Coming Soon –
+
+
+MY TIME 
+![EST Time](https://www.timeapi.io/api/Time/current/zone?timeZone=America/New_York)
+
