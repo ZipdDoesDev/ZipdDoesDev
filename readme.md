@@ -31,11 +31,7 @@ Crown Networks is a collection of independent yet interconnected projects, each 
 
 ## 🤝 Get Involved
 
-We welcome contributors and collaborators who share our passion for technology and innovation. If you're interested in joining the Crown Networks journey, here's how you can get involved:
-
-1. **Contribute to Our Projects**: Our projects are open-source, and we love to see community-driven improvements. Fork, clone, and contribute!
-2. **Join the Community**: Follow our updates, engage with us on social media, and join our discussion forums to be part of the conversation.
-3. **Collaborate with Us**: If you have an idea for a partnership, collaboration, or new project, feel free to reach out!
+We are always looking for developers to contribute to our projects and help grow our community. If you would like to contribute please email us.
 
 ---
 
@@ -59,9 +55,4 @@ Stay up-to-date with all things Crown Networks:
 
 ---
 
-## 📄 License
-
-Crown Networks projects are open-source and licensed under the MIT License, unless otherwise stated. See the [LICENSE](LICENSE) file for more information.
-
----
 
