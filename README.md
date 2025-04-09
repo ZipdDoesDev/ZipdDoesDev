@@ -21,9 +21,3 @@
 - 🎯 Coming Soon –
 
 
-MY TIME 
-### ⏰ Current Timezone
-## 🕒 Live EST Time
-
-![EST Time](https://www.timeapi.io/api/Time/current/zone?timeZone=America/New_York)
-
