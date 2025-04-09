@@ -20,6 +20,9 @@
 
 - Coming soon
 [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+https://badges.pufler.dev/visits/ZipdDoesDev/ZipdDoesDev
+
+
 
 
 
