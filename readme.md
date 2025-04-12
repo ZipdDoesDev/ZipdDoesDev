@@ -39,9 +39,7 @@ We are always looking for developers to contribute to our projects and help grow
 
 For inquiries, support, or partnership opportunities, feel free to get in touch:
 
-- Email: contact@crownnetworks.com
-- Twitter: [@CrownNetworks](https://twitter.com/CrownNetworks)
-- Discord: [Join our community](https://discord.com/invite/crownnetworks)
+Coming soon
 
 ---
 
